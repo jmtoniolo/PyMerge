@@ -1,6 +1,6 @@
 ![logo](icons/InstallerSplash.png "PyMerge Splash")
 ## PyMerge is a diff/merge utility written in Python, enabling seamless, cross-platform use.
-![diff-demo](https://github.com/jmtoniolo/PyMerge/blob/master/docs/demo_demo.gif) 
+![demo_diff](https://github.com/jmtoniolo/PyMerge/blob/master/docs/demo_diff.gif) 
 ### Installation
 #### System Requirements:
 Although PyMerge should run on most machines with Python 3.7+ installed, for best performance your computer should have
